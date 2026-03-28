@@ -1,8 +1,7 @@
 <h1>Hi, I'm Rooman! <br/><a href="https://www.linkedin.com/in/roomanalam/">Cybersecurity Professional</a>
 
 <h2>About me:</h2>
-
-
+I am a Cyber Security Consultant, with over 3 years of experience in GRC, Security Operations and other OT Cyber Security domains. I have knowledge of cyber security risk management, cyber security incident response, supplier assurance and vulnerability management. I have conducted risk assessments of IoT and OT components and utilised threat intelligence sources to protect organisations' high-risk’ assets. I have also worked within a SOC for an Enterprise Environment utilising SIEM and other IT security tools.
 
 <h2>Cyber Security Projects:</h2>
 
